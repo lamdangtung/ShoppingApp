@@ -1,10 +1,10 @@
-package com.lamdt.shoppingapp
+package com.lamdt.shoppingapp.data.db
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import java.util.concurrent.locks.Lock
+import com.lamdt.shoppingapp.data.entities.ShoppingItem
 
 @Database(
     entities = [

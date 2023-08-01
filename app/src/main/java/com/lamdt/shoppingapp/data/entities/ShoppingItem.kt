@@ -1,4 +1,4 @@
-package com.lamdt.shoppingapp
+package com.lamdt.shoppingapp.data.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
